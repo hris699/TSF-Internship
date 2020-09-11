@@ -1,1 +1,2 @@
-# TSF-Internship
+# The Sparks Foundation-Internship
+This repository includes all the tasks to be performed during Sparks Foundation Internship
